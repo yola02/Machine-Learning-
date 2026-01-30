@@ -1,4 +1,4 @@
-Machine Learning — Applied Labs & Experiments
+# Machine Learning — Applied Labs & Experiments
 
 This repository contains a collection of applied machine learning labs completed as part of the ARI 510: Machine Learning course. The work focuses on understanding how different models behave in practice, how performance is evaluated, and how design choices impact results.
 
